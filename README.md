@@ -1,4 +1,4 @@
-# Pointage_Salaire
+# Pointage_Salaire ( 16 Heure de travail )
 gestion de RH:
 * cote frontoffice:
 - login/inscription d'utilisateur
